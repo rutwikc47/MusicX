@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MusicX</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_album_press">AlbumPress</string>
+    <string name="title_activity_nowplaying">Nowplaying</string>
+</resources>
